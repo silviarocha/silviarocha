@@ -3,13 +3,12 @@
 # Hi, I'm Sílvia! 👋
 #### Fullstack developer in training 🛠️
 
-- 🌱 I’m currently learning C, Ruby and Git
+- 🌱 I’m currently learning C and Git;
 
 - 📫 How to reach me:
 
-   [![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/silviarocha/)](https://www.github.com/silviarocha/)
-   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:silvia.rocha74@hotmail.com)](mailto:silvia.rocha74@hotmail.com)
-
+   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:silvia.rocha1399@gmail.com)](mailto:silvia.rocha1399@gmail.com)
+   
 <div align="center">  
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=silviarocha&show_icons=true&count_private=true&hide_border=true&title_color=87CEFA&icon_color=00ff00&text_color=c9d1d9&bg_color=000000"/> 
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silviarocha&hide=html&layout=compact&theme=default)"/>
