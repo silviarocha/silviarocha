@@ -3,7 +3,7 @@
 # Hi, I'm Sílvia! 👋
 #### Fullstack developer in training 🛠️
 
-- 🌱 I’m currently learning C and Git;
+- 🌱 I’m currently learning C;
 
 - 📫 How to reach me:
 
