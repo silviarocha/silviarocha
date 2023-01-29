@@ -3,7 +3,7 @@
 # Hi, I'm Sílvia Rocha ! 👋
 #### Fullstack developer in training 🛠️
 
-- 🌱 I’m currently learning C;
+- 🌱 I’m currently learning SQL;
 - I'm Analysis and Systems Development student, 3rd semester; 
 - Brazilian, living in Salvador;
 - I love programming. You know this.
