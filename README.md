@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=16C5DB&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9929d6&height=120&section=header"/>
 
 # Hi, I'm Sílvia Rocha ! 👋
 #### Fullstack developer in training 🛠️
@@ -35,4 +35,4 @@
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=16C5DB&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9929d6&height=120&section=footer"/>
