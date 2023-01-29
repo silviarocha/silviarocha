@@ -4,15 +4,18 @@
 #### Fullstack developer in training 🛠️
 
 - 🌱 I’m currently learning C;
-- I'm Analysis and Systems Development student, 3rd semester; brazilian, living in Salvador. I love programming.
+- I'm Analysis and Systems Development student, 3rd semester; 
+- Brazilian, living in Salvador;
+- I love programming. You know this.
 
 - 📫 How to reach me:
 
-   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:silvia.rocha1399@gmail.com)](mailto:silvia.rocha1399@gmail.com)
+   [![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:silvia.rocha74@hotmail.com)](mailto:silvia.rocha74@hotmail.com)
    [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/silviarocha/)](https://www.linkedin.com/in/silviarocha/)
    
 <div align="center">  
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=silviarocha&show_icons=true&count_private=true&hide_border=true&title_color=87CEFA&icon_color=00ff00&text_color=c9d1d9&bg_color=000000"/> 
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=silviarocha&show_icons=true&count_private=true&hide_border=true&title_color=87CEFA&icon_color=00ff00&text_color=c9d1d9&bg_color=000000"/>
+   
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silviarocha&hide=html&layout=compact&theme=default)"/>
 </div>
 
