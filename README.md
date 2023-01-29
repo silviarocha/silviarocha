@@ -4,6 +4,7 @@
 #### Fullstack developer in training 🛠️
 
 - 🌱 I’m currently learning C;
+- I'm Analysis and Systems Development student, 3rd semester; brazilian, living in Salvador. I love programming.
 
 - 📫 How to reach me:
 
