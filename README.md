@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9929d6&height=122&section=header"/>
 
-# Hi, I'm Sílvia Rocha ! 👋
+# Hi, I'm Sílvia! 👋
 #### Fullstack developer in training 🛠️
 
 - 🌱 I’m currently learning SQL;
