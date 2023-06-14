@@ -1,11 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9929d6&height=122&section=header"/>
 
+
 # Hi, I'm Sílvia! 👋
 #### Fullstack developer in training 🛠️
 
 - 🌱 I’m currently learning SQL & Python;
 - I'm Analysis and Systems Development student;
 - Brazilian, living in Salvador.
+
 
 - 📫 How to reach me:
 
@@ -22,6 +24,7 @@
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 #### IDEs:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
@@ -29,5 +32,6 @@
 #### Other knowledge:
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9929d6&height=122&section=footer"/>
