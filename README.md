@@ -4,9 +4,8 @@
 #### Fullstack developer in training 🛠️
 
 - 🌱 I’m currently learning SQL & Python;
-- I'm Analysis and Systems Development student, 3nd semester. I study at the IFBA; 
-- Brazilian, living in Salvador;
-- I love programming. You know this.
+- I'm Analysis and Systems Development student;
+- Brazilian, living in Salvador.
 
 - 📫 How to reach me:
 
