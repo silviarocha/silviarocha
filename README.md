@@ -2,7 +2,7 @@
 
 
 # Hi, I'm Sílvia! 👋
-#### Fullstack developer in training 🛠️
+#### Front-End developer in training 🛠️
 
 - 🌱 I’m currently learning SQL & Python;
 - I'm Analysis and Systems Development student;
