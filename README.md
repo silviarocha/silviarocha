@@ -4,7 +4,7 @@
 # Hi, I'm Sílvia! 👋
 #### Front-End developer in training 🛠️
 
-- 🌱 I’m currently learning SQL & Python;
+- 🌱 I’m currently learning Python;
 - I'm Analysis and Systems Development student;
 - Brazilian, living in Salvador.
 
